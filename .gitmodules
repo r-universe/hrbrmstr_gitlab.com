@@ -1,3 +1,56 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "docxtractr"]
+	path = docxtractr
+	url = https://gitlab.com/hrbrmstr/docxtractr
+	shallow = true
+[submodule "htmltidy"]
+	path = htmltidy
+	url = https://gitlab.com/hrbrmstr/htmltidy
+	shallow = true
+[submodule "ndjson"]
+	path = ndjson
+	url = https://gitlab.com/hrbrmstr/ndjson
+	shallow = true
+[submodule "pluralize"]
+	path = pluralize
+	url = https://gitlab.com/hrbrmstr/pluralize
+	shallow = true
+[submodule "securitytxt"]
+	path = securitytxt
+	url = https://gitlab.com/hrbrmstr/securitytxt
+	shallow = true
+[submodule "sergeant"]
+	path = sergeant
+	url = https://gitlab.com/hrbrmstr/sergeant
+	shallow = true
+[submodule "spiderbar"]
+	path = spiderbar
+	url = https://gitlab.com/hrbrmstr/spiderbar
+	shallow = true
+[submodule "splashr"]
+	path = splashr
+	url = https://gitlab.com/hrbrmstr/splashr
+	shallow = true
+[submodule "statebins"]
+	path = statebins
+	url = https://gitlab.com/hrbrmstr/statebins
+	shallow = true
+[submodule "tdigest"]
+	path = tdigest
+	url = https://gitlab.com/hrbrmstr/tdigest
+	shallow = true
+[submodule "uaparserjs"]
+	path = uaparserjs
+	url = https://gitlab.com/hrbrmstr/uaparserjs
+	shallow = true
+[submodule "ulid"]
+	path = ulid
+	url = https://gitlab.com/hrbrmstr/ulid
+	shallow = true
+[submodule "wand"]
+	path = wand
+	url = https://gitlab.com/hrbrmstr/wand
+	shallow = true
