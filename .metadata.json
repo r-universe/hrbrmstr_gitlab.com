@@ -1,0 +1,54 @@
+[
+  {
+    "package": "docxtractr",
+    "oncran": true
+  },
+  {
+    "package": "htmltidy",
+    "oncran": true
+  },
+  {
+    "package": "ndjson",
+    "oncran": true
+  },
+  {
+    "package": "pluralize",
+    "oncran": true
+  },
+  {
+    "package": "securitytxt",
+    "oncran": true
+  },
+  {
+    "package": "sergeant",
+    "oncran": true
+  },
+  {
+    "package": "spiderbar",
+    "oncran": true
+  },
+  {
+    "package": "splashr",
+    "oncran": true
+  },
+  {
+    "package": "statebins",
+    "oncran": true
+  },
+  {
+    "package": "tdigest",
+    "oncran": true
+  },
+  {
+    "package": "uaparserjs",
+    "oncran": true
+  },
+  {
+    "package": "ulid",
+    "oncran": true
+  },
+  {
+    "package": "wand",
+    "oncran": true
+  }
+]
