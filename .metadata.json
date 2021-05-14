@@ -16,8 +16,7 @@
     "oncran": true
   },
   {
-    "package": "securitytxt",
-    "oncran": true
+    "package": "securitytxt"
   },
   {
     "package": "sergeant",
