@@ -23,11 +23,6 @@
 	url = https://gitlab.com/hrbrmstr/pluralize
 	shallow = true
 	registered = true
-[submodule "securitytxt"]
-	path = securitytxt
-	url = https://gitlab.com/hrbrmstr/securitytxt
-	shallow = true
-	registered = true
 [submodule "sergeant"]
 	path = sergeant
 	url = https://gitlab.com/hrbrmstr/sergeant
